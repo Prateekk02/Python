@@ -1,0 +1,96 @@
+2023-02-23 14:17:48,313 This is my multiprocessing program
+2023-02-23 14:20:27,421 No such comm target registered: jupyter.widget.control
+2023-02-23 14:20:27,428 No such comm: 271b5331-a7c1-45f1-9e58-13254ecf6d46
+2023-02-23 14:20:27,428 Current comms: []
+2023-02-23 14:21:11,351 No such comm target registered: jupyter.widget.control
+2023-02-23 14:21:11,353 No such comm: 40798825-86e8-4f87-8e77-240c9eb65689
+2023-02-23 14:21:11,353 Current comms: []
+2023-02-23 14:38:39,023 diff parser start
+2023-02-23 14:38:39,023 line_lengths old: 1; new: 11
+2023-02-23 14:38:39,024 -> code[replace] old[1:1] new[1:11]
+2023-02-23 14:38:39,025 parse_part from 1 to 11 (to 10 in part parser)
+2023-02-23 14:38:39,026 diff parser end
+2023-02-23 14:39:07,683 diff parser start
+2023-02-23 14:39:07,683 line_lengths old: 11; new: 10
+2023-02-23 14:39:07,683 -> code[equal] old[1:9] new[1:9]
+2023-02-23 14:39:07,684 copy old[1:4] new[1:4]
+2023-02-23 14:39:07,684 parse_part from 5 to 5 (to 5 in part parser)
+2023-02-23 14:39:07,685 parse_part from 6 to 10 (to 9 in part parser)
+2023-02-23 14:39:07,685 -> code[replace] old[10:11] new[10:10]
+2023-02-23 14:39:07,685 diff parser end
+2023-02-23 14:39:14,860 This is my main program
+2023-02-23 14:39:14,867 This is my multiprocessing program
+2023-02-23 14:39:26,479 This is my multiprocessing program
+2023-02-23 14:57:00,680 [1, 4, 9, 16, 25, 36, 49, 64, 81]
+2023-02-23 14:58:19,625 [1, 4, 9, 16, 25, 36, 49, 64, 81]
+2023-02-23 14:59:38,211 Returning square of nos. using Pool method where multiple process works simultaneously
+2023-02-23 14:59:38,255 [1, 4, 9, 16, 25, 36, 49, 64, 81]
+2023-02-23 15:00:23,781 Returning test result using Process method where next process starts after the previous process gets complete
+2023-02-23 15:00:23,782 This is my main program
+2023-02-23 15:00:23,789 This is my multiprocessing program
+2023-02-23 15:00:26,040 Returning square of nos. using Pool method where multiple process works simultaneously
+2023-02-23 15:00:26,086 [1, 4, 9, 16, 25, 36, 49, 64, 81]
+2023-02-23 15:25:12,074 No such comm target registered: jupyter.widget.control
+2023-02-23 15:25:12,078 No such comm: 1c642b36-9b1f-485c-89e0-6f43663d55c7
+2023-02-23 15:25:12,078 Current comms: []
+2023-02-23 15:25:42,816 Multiprocessing using queue.
+2023-02-23 15:25:42,826 0
+2023-02-23 15:25:42,830 1
+2023-02-23 15:25:42,832 2
+2023-02-23 15:25:42,834 3
+2023-02-23 15:25:42,836 4
+2023-02-23 15:25:42,838 5
+2023-02-23 15:25:42,840 6
+2023-02-23 15:25:42,842 7
+2023-02-23 15:25:42,844 8
+2023-02-23 15:25:42,845 9
+2023-02-23 15:25:42,847 prateek
+2023-02-23 15:29:22,106 diff parser start
+2023-02-23 15:29:22,106 line_lengths old: 10; new: 7
+2023-02-23 15:29:22,106 -> code[insert] old[1:0] new[1:1]
+2023-02-23 15:29:22,107 parse_part from 1 to 1 (to 1 in part parser)
+2023-02-23 15:29:22,107 -> code[equal] old[1:1] new[2:2]
+2023-02-23 15:29:22,107 copy old[1:1] new[2:2]
+2023-02-23 15:29:22,107 -> code[replace] old[2:4] new[3:4]
+2023-02-23 15:29:22,108 parse_part from 3 to 4 (to 5 in part parser)
+2023-02-23 15:29:22,108 -> code[equal] old[5:6] new[5:6]
+2023-02-23 15:29:22,108 parse_part from 5 to 7 (to 6 in part parser)
+2023-02-23 15:29:22,108 -> code[replace] old[7:10] new[7:7]
+2023-02-23 15:29:22,109 diff parser end
+2023-02-23 15:29:22,245 No such comm target registered: jupyter.widget.control
+2023-02-23 15:29:22,258 No such comm: 807a726a-8b26-4b4a-8037-90f11f34eb09
+2023-02-23 15:29:22,259 Current comms: []
+2023-02-23 15:29:22,302 diff parser start
+2023-02-23 15:29:22,302 line_lengths old: 7; new: 7
+2023-02-23 15:29:22,302 -> code[equal] old[1:6] new[1:6]
+2023-02-23 15:29:22,302 copy old[1:4] new[1:4]
+2023-02-23 15:29:22,303 parse_part from 5 to 5 (to 5 in part parser)
+2023-02-23 15:29:22,303 parse_part from 6 to 7 (to 6 in part parser)
+2023-02-23 15:29:22,303 -> code[replace] old[7:7] new[7:7]
+2023-02-23 15:29:22,303 diff parser end
+2023-02-23 15:29:22,963 Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<Kernel.poll_control_queue() running at /opt/conda/lib/python3.10/site-packages/ipykernel/kernelbase.py:284> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[_chain_future.<locals>._call_set_state() at /opt/conda/lib/python3.10/asyncio/futures.py:392]>
+2023-02-23 15:32:16,615 Multiprocessing using array.
+2023-02-23 15:32:16,673 [4, 3, 4, 5, 6, 7, 8]
+2023-02-23 15:32:16,685 [4, 9, 4, 5, 6, 7, 8]
+2023-02-23 15:32:16,695 [4, 9, 16, 5, 6, 7, 8]
+2023-02-23 15:32:16,705 [4, 9, 16, 25, 6, 7, 8]
+2023-02-23 15:32:16,715 [4, 9, 16, 25, 36, 7, 8]
+2023-02-23 15:32:16,724 [4, 9, 16, 25, 36, 49, 8]
+2023-02-23 15:32:16,733 [4, 9, 16, 25, 36, 49, 64]
+2023-02-23 15:33:42,756 Multiprocessing using array.
+2023-02-23 15:33:42,767 [4, 3, 4, 5, 6, 7, 8]
+2023-02-23 15:33:42,777 [4, 9, 4, 5, 6, 7, 8]
+2023-02-23 15:33:42,785 [4, 9, 16, 5, 6, 7, 8]
+2023-02-23 15:33:42,796 [4, 9, 16, 25, 6, 7, 8]
+2023-02-23 15:33:42,806 [4, 9, 16, 25, 36, 7, 8]
+2023-02-23 15:33:42,816 [4, 9, 16, 25, 36, 49, 8]
+2023-02-23 15:33:42,825 [4, 9, 16, 25, 36, 49, 64]
+2023-02-23 15:34:42,495 Multiprocessing using array.
+2023-02-23 15:34:42,528 [4, 9, 16, 25, 36, 49, 64]
+2023-02-23 15:42:36,432 No such comm target registered: jupyter.widget.control
+2023-02-23 15:42:36,436 No such comm: 08b09550-59a4-4f20-bcf8-6b8b6c606544
+2023-02-23 15:42:36,437 Current comms: []
+2023-02-23 15:42:39,428 It's over Anakin
+2023-02-23 15:42:39,433  I have a high ground
+2023-02-23 15:42:39,435 You under estimate my power
